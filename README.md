@@ -4,11 +4,13 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
-    **2.** Create Profit and Loss (P&L) reports by [Months]
-    **3.** Create Profit and Loss (P&L) reports by [Quarters]
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/samikshagoswami/Excel-Finance-Analysis/blob/main/P%26L%20for%20Market%20by%20FY.pdf)
+  
+    **2.** Create Profit and Loss (P&L) reports by [Months](https://github.com/samikshagoswami/Excel-Finance-Analysis/blob/main/P%26L%20for%20Market%20by%20Months.pdf)
+  
+    **3.** Create Profit and Loss (P&L) reports by [Quarters](https://github.com/samikshagoswami/Excel-Finance-Analysis/blob/main/P%26L%20for%20Market%20by%20Quarters.pdf)
 
-  **4.** Create Gross Margin % report [P&L for Market]
+    **4.** Create Gross Margin % report [Gross Margin % ](https://github.com/samikshagoswami/Excel-Finance-Analysis/blob/main/Gross%20Margin%20%25.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -26,6 +28,6 @@
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Refined understanding of Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
